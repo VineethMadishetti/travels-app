@@ -1,2 +1,3 @@
-# Travel-App
+# travels-app
+
 React Travel APP
